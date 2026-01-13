@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/CXXEDS/language-masters/en:/",
-    "/content/CXXEDS/language-masters/en/:/en/",
-    "/content/CXXEDS/language-masters/fr/:/fr/",
-    "/content/CXXEDS/language-masters/fr:/fr",
-    "/content/CXXEDS/language-masters/es/:/es/",
-    "/content/CXXEDS/language-masters/es:/es",
-    "/content/CXXEDS/language-masters/ja/:/ja/",
-    "/content/CXXEDS/language-masters/ja:/ja",
-    "/content/CXXEDS/language-masters/de/:/de/",
-    "/content/CXXEDS/language-masters/de:/de",
-    "/content/CXXEDSl/configuration:/.helix/config.json",
-    "/content/CXXEDS/metadata:/metadata.json",
-    "/content/CXXEDS/redirects:/redirects.json",
-    "/content/CXXEDS/placeholders:/placeholders.json"
+    "/content/CXXEDS2/language-masters/en:/",
+    "/content/CXXEDS2/language-masters/en/:/en/",
+    "/content/CXXEDS2/language-masters/fr/:/fr/",
+    "/content/CXXEDS2/language-masters/fr:/fr",
+    "/content/CXXEDS2/language-masters/es/:/es/",
+    "/content/CXXEDS2/language-masters/es:/es",
+    "/content/CXXEDS2/language-masters/ja/:/ja/",
+    "/content/CXXEDS2/language-masters/ja:/ja",
+    "/content/CXXEDS2/language-masters/de/:/de/",
+    "/content/CXXEDS2/language-masters/de:/de",
+    "/content/CXXEDS2l/configuration:/.helix/config.json",
+    "/content/CXXEDS2/metadata:/metadata.json",
+    "/content/CXXEDS2/redirects:/redirects.json",
+    "/content/CXXEDS2/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/CXXEDS/",
-    "/content/dam/CXXEDS/"
+    "/content/CXXEDS2/",
+    "/content/dam/CXXEDS2/"
   ]
 }
